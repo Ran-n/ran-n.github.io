@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ran-n.github.io
+Token: a0fa02cb9474967f1485ef936777dc801ee4383cb586d1d7bdc09398ff4dcb33
