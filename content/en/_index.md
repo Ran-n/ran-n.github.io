@@ -1,5 +1,5 @@
 ---
-#title: "Páxinas Web"
+#title: "Web Pages"
 date: 2022-04-27T20:07:00+02:00
 #draft: true
 author: 'Ran#'

@@ -5,16 +5,12 @@ date: 2022-04-27T23:13:00+02:00
 author: 'Ran#'
 
 slug: 'minecraft_info'
-url: '/minecraft_info/'
+url: '/en/minecraft_info/'
 aliases: [
-    '/gz/minecraft_info/',
-    '/gz/minecraft info/',
-    '/gz/minecraft-info/',
-    '/gz/minecraftinfo/',
-    '/minecraft_info/',
-    '/minecraft info/',
-    '/minecraft-info/',
-    '/minecraftinfo/',
+    '/en/minecraft_info/',
+    '/en/minecraft info/',
+    '/en/minecraft-info/',
+    '/en/minecraftinfo/',
 ]
 
 weight: 1
