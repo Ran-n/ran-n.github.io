@@ -4,13 +4,19 @@ date: 2022-04-27T23:13:00+02:00
 #draft: true
 author: 'Ran#'
 
-slug: 'minecraft_info'
 url: '/minecraft_info/'
+slug: 'minecraft_info'
 aliases: [
     '/gz/minecraft_info/',
     '/gz/minecraft info/',
     '/gz/minecraft-info/',
     '/gz/minecraftinfo/',
+
+    '/minecraft_info/gz/',
+    '/minecraft info/gz/',
+    '/minecraft-info/gz/',
+    '/minecraftinfo/gz/',
+
     '/minecraft_info/',
     '/minecraft info/',
     '/minecraft-info/',
