@@ -17,7 +17,7 @@ aliases: [
     '/minecraftinfo/',
 ]
 
-weight: 1
+weight: 2
 bookcase_cover_src: 'minecraft_cespede.png'
 bookcase_cover_src_dark: 'minecraft_cespede.png'
 
