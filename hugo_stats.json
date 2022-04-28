@@ -29,6 +29,7 @@
       "ul"
     ],
     "classes": [
+      "active",
       "bookcase-item",
       "bookcase-item-img-dark",
       "bookcase-item-img-light",
@@ -48,7 +49,9 @@
       "feather-sun",
       "feather-x",
       "hidden",
+      "insection",
       "my-8",
+      "navbar-item",
       "pure-menu",
       "pure-menu-allow-hover",
       "pure-menu-children",
