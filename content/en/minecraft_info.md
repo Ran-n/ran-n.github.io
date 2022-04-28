@@ -11,11 +11,13 @@ aliases: [
     '/en/minecraft info/',
     '/en/minecraft-info/',
     '/en/minecraftinfo/',
+    '/en/minecraft/',
 
     '/minecraft_info/en/',
     '/minecraft info/en/',
     '/minecraft-info/en/',
     '/minecraftinfo/en/',
+    '/minecraft/en/',
 ]
 
 weight: 2

@@ -11,16 +11,18 @@ aliases: [
     '/gz/minecraft info/',
     '/gz/minecraft-info/',
     '/gz/minecraftinfo/',
+    '/gz/minecraft/',
 
     '/minecraft_info/gz/',
     '/minecraft info/gz/',
     '/minecraft-info/gz/',
     '/minecraftinfo/gz/',
+    '/minecraft/gz/',
 
     '/minecraft_info/',
     '/minecraft info/',
     '/minecraft-info/',
-    '/minecraftinfo/',
+    '/minecraft/',
 ]
 
 weight: 2
