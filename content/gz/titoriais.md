@@ -13,8 +13,7 @@ aliases: [
     '/gz/titos/',
     '/gz/tutos/',
 
-    '/gz/titoriai/',
-    '/gz/tutoriai/',
+    '/gz/titorial/',
     '/gz/tutorial/',
     '/gz/tito/',
     '/gz/tuto/',
@@ -25,20 +24,18 @@ aliases: [
     '/titos/',
     '/tutos/',
 
-    '/titoriai/',
-    '/tutoriai/',
+    '/titorial/',
     '/tutorial/',
     '/tito/',
     '/tuto/',
 
     '/titoriais/gz/',
-    '/tutoriais/gz/',
+    '/tutoriales/gz/',
     '/tutorials/gz/',
     '/titos/gz/',
     '/tutos/gz/',
 
-    '/titoriai/gz/',
-    '/tutoriai/gz/',
+    '/titorial/gz/',
     '/tutorial/gz/',
     '/tito/gz/',
     '/tuto/gz/',

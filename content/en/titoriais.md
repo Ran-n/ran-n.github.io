@@ -13,8 +13,7 @@ aliases: [
     '/en/titos/',
     '/en/tutos/',
 
-    '/en/titoriai/',
-    '/en/tutoriai/',
+    '/en/titorial/',
     '/en/tutorial/',
     '/en/tito/',
     '/en/tuto/',
@@ -25,8 +24,7 @@ aliases: [
     '/titos/',
     '/tutos/',
 
-    '/titoriai/',
-    '/tutoriai/',
+    '/titorial/',
     '/tutorial/',
     '/tito/',
     '/tuto/',
@@ -37,8 +35,7 @@ aliases: [
     '/titos/en/',
     '/tutos/en/',
 
-    '/titoriai/en/',
-    '/tutoriai/en/',
+    '/titorial/en/',
     '/tutorial/en/',
     '/tito/en/',
     '/tuto/en/',
