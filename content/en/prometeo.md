@@ -1,19 +1,19 @@
 ---
-title: "Prometeo"
+title: "Prometheus"
 date: 2022-04-28T19:25:00+02:00
 #draft: true
 author: 'Ran#'
 
-url: '/prometeo/gz/'
-slug: 'prometeo/gz'
+url: '/prometeo/en/'
+slug: 'prometeo/en'
 aliases: [
-    '/gz/prometeo/',
-    '/gz/prometheus/',
+    '/en/prometeo/',
+    '/en/prometheus/',
 
-    '/prometeo/',
+    '/prometheus/',
 
-    '/prometeo/gz/',
-    '/prometheus/gz/',
+    '/prometeo/en/',
+    '/prometheus/en/',
 ]
 
 weight: 5

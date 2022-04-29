@@ -21,7 +21,7 @@ aliases: [
 ]
 
 weight: 2
-bookcase_cover_src: 'minecraft_cespede.png'
-bookcase_cover_src_dark: 'minecraft_cespede.png'
+bookcase_cover_src: 'mc_grass_bc.svg'
+bookcase_cover_src_dark: 'mc_grass_bc.svg'
 
 ---

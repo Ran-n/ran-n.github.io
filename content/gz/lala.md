@@ -21,7 +21,7 @@ aliases: [
 ]
 
 weight: 4
-bookcase_cover_src: 'lala.png'
-bookcase_cover_src_dark: 'lala.png'
+bookcase_cover_src: 'lala_bc.svg'
+bookcase_cover_src_dark: 'lala_bc.svg'
 
 ---
