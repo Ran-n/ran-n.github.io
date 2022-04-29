@@ -4,8 +4,8 @@ date: 2022-04-27T23:23:00+02:00
 #draft: true
 author: 'Ran#'
 
-slug: 'Ran-n'
-url: '/Ran-n/'
+url: '/Ran-n/gz/'
+slug: 'Ran-n/gz'
 aliases: [
     '/gz/ran-n/',
     '/gz/ran n/',

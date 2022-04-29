@@ -5,7 +5,7 @@ date: 2022-04-27T23:13:00+02:00
 author: 'Ran#'
 
 url: '/minecraft_info/en/'
-slug: 'minecraft_info'
+slug: 'minecraft_info/en'
 aliases: [
     '/en/minecraft_info/',
     '/en/minecraft info/',

@@ -5,7 +5,7 @@ date: 2022-04-27T23:23:00+02:00
 author: 'Ran#'
 
 url: '/Ran-n/en/'
-slug: 'Ran-n'
+slug: 'Ran-n/en'
 aliases: [
     '/en/ran-n/',
     '/en/ran n/',

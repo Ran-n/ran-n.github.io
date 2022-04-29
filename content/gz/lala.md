@@ -4,8 +4,8 @@ date: 2022-04-28T19:25:00+02:00
 #draft: true
 author: 'Ran#'
 
-url: '/lala/'
-slug: 'lala'
+url: '/lala/gz/'
+slug: 'lala/gz'
 aliases: [
     '/gz/lala/',
     '/gz/LALA/',

@@ -5,7 +5,7 @@ date: 2022-04-28T19:25:00+02:00
 author: 'Ran#'
 
 url: '/prometeo/gz/'
-slug: 'prometeo'
+slug: 'prometeo/gz'
 aliases: [
     '/gz/prometeo/',
     '/gz/prometheus/',

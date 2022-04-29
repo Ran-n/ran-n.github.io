@@ -5,7 +5,7 @@ date: 2022-04-28T19:18:00+02:00
 author: 'Ran#'
 
 url: '/titoriais/gz/'
-slug: 'titoriais'
+slug: 'titoriais/en'
 aliases: [
     '/en/titoriais/',
     '/en/tutoriais/',
