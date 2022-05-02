@@ -23,8 +23,3 @@
     name = "Prometeo"
     url = "/prometeo/gz/"
     weight = "5"
-[[navbar]]
-    identifier = "subs_gz"
-    name = "Subs"
-    url = "/subs/gz/"
-    weight = "6"

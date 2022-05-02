@@ -23,8 +23,3 @@
     name = "Prometheus"
     url = "/prometeo/en/"
     weight = "5"
-[[navbar]]
-    identifier = "subs_en"
-    name = "Subs"
-    url = "/subs/en/"
-    weight = "5"
