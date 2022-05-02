@@ -9,7 +9,7 @@
     url = "/minecraft_info/en/"
     weight = "2"
 [[navbar]]
-    identifier = "tutorials"
+    identifier = "tutorials_en"
     name = "Tutorials"
     url = "/titoriais/en/"
     weight = "3"
@@ -19,7 +19,12 @@
     url = "/lala/en/"
     weight = "4"
 [[navbar]]
-    identifier = "prometeus"
-    name = "Prometeus"
+    identifier = "prometheus_en"
+    name = "Prometheus"
     url = "/prometeo/en/"
+    weight = "5"
+[[navbar]]
+    identifier = "subs_en"
+    name = "Subs"
+    url = "/subs/en/"
     weight = "5"
