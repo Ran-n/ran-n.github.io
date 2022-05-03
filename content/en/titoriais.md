@@ -4,7 +4,7 @@ date: 2022-04-28T19:18:00+02:00
 #draft: true
 author: 'Ran#'
 
-url: '/titoriais/gz/'
+url: '/a/titoriais/gz/'
 slug: 'titoriais/en'
 aliases: [
     '/en/titoriais/',
