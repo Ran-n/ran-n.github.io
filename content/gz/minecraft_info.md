@@ -7,17 +7,26 @@ author: 'Ran#'
 url: '/minecraft_info/gz/'
 slug: 'minecraft_info/gz'
 aliases: [
-    '/gz/minecraft_info/',
+    '/gz/maincra/',
+    '/gz/mc/',
     '/gz/minecraft info/',
     '/gz/minecraft-info/',
-    '/gz/minecraftinfo/',
     '/gz/minecraft/',
-
-    '/minecraft_info/gz/',
+    '/gz/minecraft_info/',
+    '/gz/minecraftinfo/',
+    '/maincra/',
+    '/maincra/gz/',
+    '/mc/',
+    '/minecraft info/',
     '/minecraft info/gz/',
+    '/minecraft-info/',
     '/minecraft-info/gz/',
-    '/minecraftinfo/gz/',
+    '/minecraft/',
     '/minecraft/gz/',
+    '/minecraft_info/',
+    '/minecraft_info/gz/',
+    '/minecraftinfo/',
+    '/minecraftinfo/gz/',
 ]
 
 weight: 2
