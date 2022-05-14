@@ -6,7 +6,7 @@ enable_toc = true
 enable_collapsible_toc = true
 enable_collapsible_changelogs = true
 
-enable_site_search = false
+enable_site_search = true
 enable_math = true
 enable_zooming_js = true
 
